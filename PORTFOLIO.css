@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Teko', sans-serif;
+  }
+  .experience{
+    padding-left: 100px;
+  }
+ video {
+    width: 100%;
+    height: auto;
+  }
+  .container img {
+    width: 100%;
+    height: auto;
+  }
+  .photo-list {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .photo-list li img:nth-child(1):hover {
+    transform: scale(1.1); 
+  }
+  .photo-list li img:nth-child(2) :hover {
+    transform: scale(1.1); 
+  }
+  .photo-list li img:nth-child(3):hover {
+    transform: scale(1.1); 
+  }
+  .photo-list li img:nth-child(4):hover {
+    transform: scale(1.1); 
+  }
+  .photo-list li img:nth-child(5):hover {
+    transform: scale(1.1); 
+  }
+  .photo-list li img:nth-child(6) :hover {
+    transform: scale(1.1); 
+  }
+  .photo-list li img:nth-child(7):hover {
+    transform: scale(1.1); 
+  }
+  .photo-list li img:nth-child(8):hover {
+    transform: scale(1.1); 
+  }
+  .photo-list li img:nth-child(9):hover {
+    transform: scale(1.1); 
+  }
+  .photo-list li {
+    width: 33.33%; 
+    padding-top: 25px;
+    padding-left: 50px;
+    padding-right: 100px;
+    box-sizing: border-box;
+  }
+  .photo-list img {
+    width: 100%;
+    height: auto;
+  }
+ .introduction{
+ padding-top: 30px;
+ padding-bottom: 30px;
+ line-height: 50px;
+ border-top: 1px solid white;
+ border-bottom: 1px solid white;
+ }
